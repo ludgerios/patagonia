@@ -4,7 +4,7 @@
 
 ## 🌎 Acesse o projeto
 
-**[→ Abrir o site](https://ludgerios.github.io/patagonia/)**
+**[→ Abrir o site](https://ludgerios.github.io/site-patagonia-turismo/)**
 
 O projeto está publicado pelo GitHub Pages e pode ser acessado diretamente pelo navegador.
 
